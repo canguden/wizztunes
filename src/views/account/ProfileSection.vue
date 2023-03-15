@@ -1,5 +1,6 @@
 <template>
-      <div class="container max-w-4xl mx-auto flex">
+      <div class="text-gray-100 mt-20 text-xl">Profile</div>
+      <div class="container max-w-4xl mt-5 mx-auto flex">
             <div class="w-1/3">
                   <img 
                   class="w-full rounded-lg h-auto shadow-lg" 

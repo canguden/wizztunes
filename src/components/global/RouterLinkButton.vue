@@ -1,6 +1,6 @@
 <template>
   <router-link
-    class="float-right bg-transparent text-gray-100 font-semibold hover:text-white py-2 px-4 border hover:border:transparent rounded"
+    class="float-right bg-transparent text-gray-100  font-semibold hover:text-white py-2 px-4 text-sm border hover:border:transparent rounded"
     :class="[color ? 'hover:bg-' + color + '-500 border-' + color + '-500' : '']"
       :to="url"
   >

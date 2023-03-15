@@ -17,14 +17,14 @@ const thePlayer = () => {
 new APlayer({
       container: document.getElementById('aplayer'),
       audio: [{
-            name: 'first song',
-            artist: 'artist',
+            name: 'LoFi Guitar Chill',
+            artist: 'Fruits Music',
             url: '/music/beats.mp3',
             cover: 'cover.jpg'
 },
 {
-            name: 'second song',
-            artist: 'artist',
+            name: 'Friends',
+            artist: 'Solomun',
             url: '/music/solomun-friends.mp3',
             cover: 'cover.jpg'
 },
@@ -32,3 +32,10 @@ new APlayer({
 });
 }
 </script>
+
+<style>
+
+#aplayer {
+      border-radius: 10px;
+}
+</style>
