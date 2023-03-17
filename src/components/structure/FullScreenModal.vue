@@ -24,7 +24,7 @@
             class="w-full text-gray-100 text-center text-lg"
             btnText="Edit Profile"
             color="green"
-            url="/account/add-create-event"
+            url="/account/edit-profile"
           />
           <RouterLinkButton
             @click="open = !open"

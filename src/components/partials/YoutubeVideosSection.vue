@@ -24,11 +24,11 @@
 
     <div class="flex flex-wrap pb-4">
       <div class="my-1 px-1 w-full md:w-1/2 lg:w-1/2">
-        <div class="text-xl text-gray-900">Video Title</div>
         <iframe
           class="w-full h-60 rounded-xl"
           src="https://www.youtube.com/embed/QThYaD1cMrU?autoplay=0"
         ></iframe>
+        <div class="text-xl text-gray-100">ANOTR - Vertigo</div>
       </div>
     </div>
   </div>
